@@ -1,0 +1,9 @@
+.aboutContainer {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .aboutTitle {
+    color: #333; /* Use a class name instead of a global selector */
+  }
+  

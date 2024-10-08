@@ -1,0 +1,26 @@
+/* app/components/Header.module.css */
+.header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text color */
+    padding: 10px; /* Padding */
+    text-align: center; /* Center align text */
+}
+
+.navList {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+}
+
+.navList li {
+    display: inline; /* Inline display for nav items */
+    margin: 0 15px; /* Space between nav items */
+}
+
+.navList a {
+    color: white; /* White color for links */
+    text-decoration: none; /* Remove underline */
+}
+
+.navList a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
